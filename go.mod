@@ -1,4 +1,5 @@
-module github.com/akhil/golang-jwt-project
+module github.com/Viru9029/E-Commerce-Project
+
 
 go 1.16
 
